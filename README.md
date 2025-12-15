@@ -17,7 +17,10 @@ I enjoy bridging the gap between **theoretical concepts and practical implementa
 - Load Balancing Algorithms  
 - Virtual Machine Allocation  
 - Distributed Systems  
-- Intelligent Resource Management  
+- Intelligent Resource Management
+- Cyber Security
+- Artificial Intelligence
+- Machine Learning  
 
 ---
 
