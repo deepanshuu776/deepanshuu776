@@ -2,7 +2,6 @@
 ## Hi there 👋
 
 
-**deepanshuu776/deepanshuu776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👨‍🏫 Deepanshu Saini
 
