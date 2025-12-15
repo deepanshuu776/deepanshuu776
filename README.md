@@ -1,6 +1,7 @@
+
 ## Hi there 👋
 
-<!--
+
 **deepanshuu776/deepanshuu776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👨‍🏫 Deepanshu Saini
@@ -56,4 +57,3 @@ I enjoy bridging the gap between **theoretical concepts and practical implementa
 ---
 
 > *“Teaching ignites minds, research shapes the future.”*
--->
